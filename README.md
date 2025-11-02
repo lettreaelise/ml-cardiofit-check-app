@@ -1,5 +1,6 @@
 # CardioFit Check  
 ## Avaliação de Tolerância ao Esforço Cardíaco com Machine Learning  
+### Link do app: https://ml-cardiofit-check-app-felipesantos.streamlit.app/
 
 ---
 
@@ -66,4 +67,5 @@ Ele contém variáveis clínicas relacionadas à função cardíaca, como:
 - Idade e sexo;  
 - Pressão arterial, colesterol e glicemia;  
 - Resultados de eletrocardiograma;  
+
 - Frequência cardíaca máxima, dor no peito e alterações do segmento ST.  
